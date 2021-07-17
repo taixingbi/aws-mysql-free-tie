@@ -1,7 +1,14 @@
-##### config
+#### config
+```
+public accessible
+```
+#### security
+```
+TCP 3360
+```
 
 
-
+#### mos access
 ![alt text](https://github.com/taixingbi/aws-mysql-free-tie/blob/main/1.png)
 
 ##### reference
