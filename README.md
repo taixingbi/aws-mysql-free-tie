@@ -9,8 +9,12 @@ TCP 3360
 
 
 #### mos access
+
 AWS RDS 
-aws-mysql-test.cilvyiitil34.us-east-2.rds.amazonaws.com
+```
+name: aws-mysql-test
+host: aws-mysql-test.cilvyiitil34.us-east-2.rds.amazonaws.com
+```
 ![alt text](https://github.com/taixingbi/aws-mysql-free-tie/blob/main/1.png)
 
 
